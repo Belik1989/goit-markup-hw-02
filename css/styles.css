@@ -190,6 +190,9 @@
     letter-spacing: 0.03em;
     color: var(--secondary-tex-color);
 }
+/* .projects-titles:hover,
+.projects-titles:focus{ */
+
 /* ----------------------------FOOTER--------------------------------------------- */
 .logo-foot{
     font-family: 'Raleway', sans-serif;
